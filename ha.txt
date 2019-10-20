@@ -1,0 +1,49 @@
+<html>
+  <head>
+  <style>
+body {background-color: LavenderBlush;text-align: center;}
+h1 {color: Olive;}
+h2 {color: CadetBlue;}
+h3 {color: SaddleBrown;}
+p {color: Sienna;} 
+    div {background-color: AliceBlue;
+  width: 850px; border: 10px solid LightCoral;padding: 20px;margin: 150px;}
+  </style>
+  </head>
+  <body>
+    <div>
+      <h1><b>履歷表</b></h1>
+      <br/>
+      <h2>個人資訊</h2>
+      <hr/>
+     <img src="https://img.ltn.com.tw/Upload/partner/page/2019/07/16/190716-4198-01-iHK11.jpg"style="width:400px;height:500px;">
+      <h3>張惠婷</br>JOANNA</h3>
+    <p>性別:女<br/>年齡:20<br/>mail: j0912929223@gmail.com</p>
+    <br/>
+    <h2>學習歷程</h2>
+    <hr/>
+    <p><b>☆學歷</b><br/>畢業於國立新竹高商 <br/> 目前就讀國立台北護理健康大學</p>
+    <p><b>☆工作經驗</b><br/>2017年—冰店/拉麵店員工</br>2018~2019年—耳鼻喉科診所護理師</p>
+    <p><b>☆證照</b><br/>TQC中打進階級/TQC數打實用級<br/>商教會計檢定一、二、三級/商教商管檢定二、三級/商教英文檢定三級<br/>人工會計丙級<br/>電腦軟體應用丙級<br/>Microsoft ACCESS證照
+    <br/>
+    <h2>自傳</h2>
+    <hr/>
+<p><b>＊家庭背景</b></p>
+<p>我出生在一個很平凡但很美滿的小家庭，家中成員共4位，父親是從事裝修不鏽鋼的業務，母親是科技公司的技術員，而姐姐目前就讀台大研究所。<br/>從小母親對於品德教育最為重視，儘管我成績不是最好，但是她總說「態度決定一個人的高度」，良好的態度會建立了一個人，在別人心中的地位。
+  <br/>
+<p><b>＊關於我...</b></p>
+<p>活潑、正向是我最大的特質，也因如此我常成為人群中的開心果，心情低落時喜歡轉彎思考，趕緊找到平衡點。<br/>而我喜歡的運動是打排球，從中鍛鍊出集中力與瞬間的應變力，最重要的是團隊合作，成為彼此堅強的後盾。</p>
+<br/>
+<p><b>＊未來展望</b></p>
+<p>近程方面，在大學課程累積不少專業知識，期許自己在職場上能表現得更淋漓盡致，並將所學的知識融會貫通。<br/>生涯規劃方面，我希望能成為一個傑出的醫院後勤人員，使理論與實務結合，為國家醫療體系貢獻自己的一份力量。</p>
+</body>
+</html>
+
+    
+    
+      
+    
+    
+    
+    
+    
